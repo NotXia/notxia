@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="./racoon.gif" alt="racoon rolling" />
+    <img src="./seal.gif" alt="Seal doing things" />
 </p>
